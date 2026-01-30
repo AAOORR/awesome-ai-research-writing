@@ -1,5 +1,3 @@
-# awesome-ai-research-writing
-
 > Make AI Writing Great Again
 
 ## 📖 为什么做这个项目
