@@ -39,7 +39,7 @@
 - [论文整体以 Reviewer 视角进行审视](#论文整体以-reviewer-视角进行审视)
 
 ### Part II: 论文写作相关的 Skills
-- [论文写作相关的 Skills](#Part II: 论文写作相关的 Skills) *(开发中)*
+- [论文写作相关的 Skills](#part-ii-论文写作相关的-skills) *(开发中)*
 
 ---
 
