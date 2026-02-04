@@ -1,5 +1,7 @@
 > Make AI Writing Better for Everyone
-
+> 
+## 致谢
+引用： https://github.com/Leey21/awesome-ai-research-writing
 ## 📖 为什么做这个项目
 
 当你第三次调试同一个润色 prompt 时，隔壁组的同学可能已经用现成的模板改完了三篇论文。
